@@ -1,0 +1,27 @@
+_repo: I-d-Like-to-Do-It-Again_63287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Owen
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '37190'
+    url: http://www.gutenberg.org/2009/agents/37190
+    wikipedia: https://en.wikipedia.org/wiki/Owen_Davis
+description: ''
+gutenberg_issued: '2020-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63287'
+  lccn: '31026528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dramatists, American -- Biography'
+- !lcc 'PS'
+- !lcsh 'Davis, Owen, 1874-1956'
+- GITenberg
+title: I'd Like to Do It Again
+url: http://www.gutenberg.org/ebooks/63287
